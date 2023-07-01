@@ -1,0 +1,31 @@
+#task{
+	border: 1px solid #d5d1d1;
+    height: 90px;
+    width: 75%;
+    margin: 225px 0px 0px 160px;
+    padding-left:100px;
+	border-radius:10px;
+}
+.container{
+	display: flex;
+    margin: 28px 0px;
+    overflow: hidden;
+    border-radius: 8px;
+	width: fit-content;
+}
+a{
+	text-decoration:none;
+	padding: 9px 16px;
+}
+.type1{
+	background-color: rgb(220,52,76);
+    color: white;
+}
+.type2{
+	background-color: rgb(251,194,8);
+    color: black;
+}
+.type3{
+	background-color: rgb(28,134,81);
+    color: white;
+}
